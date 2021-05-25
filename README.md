@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Leilanny-nascimento Oliveira
 - 👀 I’m interested in, aprender mais ainda sobre programação
-- 🌱 I’m currently learning  programação em python e em C
+- 🌱 I’m currently learning  programação
 - 💞️ I’m looking to collaborate com o que eu posso e o que está ao meu alcance
 - 📫 How to reach me  pelo instagram @leilann.y
 
